@@ -18,7 +18,7 @@
 
 ## 🌟 Connect with Me  
 - 🌐 **LinkedIn:** [Pritam Reddy M](https://www.linkedin.com/in/pritam-reddy-m)  
-- 📸 **Instagram:** [@that_teen_titan](https://www.instagram.com/that_teen_titan)  
+- 📸 **Instagram:** [@that_teen.titan](https://www.instagram.com/that_teen.titan)  
 
 ---
 
