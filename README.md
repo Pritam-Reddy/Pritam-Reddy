@@ -14,7 +14,7 @@
 | **Methods** | **RFM Analysis** (Recency, Frequency, Monetary) followed by **K-Means Clustering** ($k=3$) to create actionable segments. |
 | **Segments** | **Best Customers**, **Growing Customers**, and **Hibernating Customers** with defined strategic roadmaps for each. |
 | **Deliverable** | **Live, Interactive Streamlit Web Application** for executive review, featuring the Segment Size breakdown and the Normalized RFM "Snake Plot." |
-| **Live Demo** | **[INSERT YOUR STREAMLIT CLOUD URL HERE]** |
+| **Live Demo** | **[]** |
 | **Tech Stack** | **Python**, **Pandas**, **Scikit-learn**, **Streamlit**, **Plotly** (for interactive visualization) |
 
 ---
@@ -44,7 +44,7 @@ These projects demonstrate a proactive approach to turning data insights into bu
 
 | Platform | Handle/Link |
 | :--- | :--- |
-| **LinkedIn** | [Pritam Reddy M](https://www.linkedin.com/in/PritamReddyM) |
-| **Instagram** | [@that\_teen.titan](https://www.instagram.com/that_teen.titan) |
+| **LinkedIn** | [Pritam Reddy M](https://www.linkedin.com/in/pritam-reddy-m/) |
+| **Instagram** | [@that\_teen.titan](https://www.instagram.com/that_teen.titan/) |
 
 > **⭐ Passionate about data-driven problem-solving and leveraging cutting-edge web technologies to build impactful products.**
